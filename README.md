@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/ollls/zio-tls-http/blob/main/Screenshot.jpg?raw=true)
 
+
+Your comments or questions appreciated, please ask at
+https://gitter.im/zio-tls-http
+
 ## How to run.
 
 Import https://github.com/ollls/zio-tls-http/blob/main/localhost.cer to keychain on MacOS.
